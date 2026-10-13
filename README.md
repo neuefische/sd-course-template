@@ -1,6 +1,6 @@
 # [CohortName] Cohort Repository
 
-This the cohort repository of sharks-wd-onl-26. You can find all handouts, demos, challenges and solutions in the [sessions](./sessions/) folder.
+This the cohort repository of [CohortName]. You can find all handouts, demos, challenges and solutions in the [sessions](./sessions/) folder.
 
 For offical bootcamp rules, please refer to the [docs](./docs/bootcamp-rules-en.md).
 
